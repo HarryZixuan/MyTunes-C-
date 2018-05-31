@@ -1,9 +1,9 @@
-# MyTunes-C-
+# MyTunes-Cpp
 music management application
 
 
-ZiXuanZhang 101027027
-Ming Lei 100981171
+ZiXuanZhang
+Ming Lei
 ------------------------------------------------------------------------------------------------------------------------------
 
 In my program, If A follows B, A will reserve its own playlists and then follows B's playlist.
